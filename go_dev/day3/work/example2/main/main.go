@@ -2,11 +2,11 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	str := "asdasdasd"
 
-	for i:=0;i<len(str) ;i++  {
-		fmt.Println("sss",str[i])
-	//	 字符串对应的ACSLL码
+	for i := 0; i < len(str); i++ {
+		fmt.Println("sss", str[i])
+		//	 字符串对应的ACSLL码
 	}
 }

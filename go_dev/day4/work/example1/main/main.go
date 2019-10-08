@@ -1,11 +1,11 @@
 package main
 
-func process(str string)bool  {
-	for i := 0;i<len(str) ;i++  {
+func process(str string) bool {
+	for i := 0; i < len(str); i++ {
 		if i == len(str)/2 {
 			break
 		}
-		last := len(str) -i -1
+		last := len(str) - i - 1
 		if str[i] != str[last] {
 			return false
 		}
@@ -13,6 +13,6 @@ func process(str string)bool  {
 	return true
 }
 
-func main()  {
-	
+func main() {
+
 }

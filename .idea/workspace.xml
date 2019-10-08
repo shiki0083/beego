@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8df85ee5-a5a7-44bb-b013-76296e6d24cb" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/acroca/go-symbols" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/acroca/go-symbols" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/acroca/go-symbols/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/acroca/go-symbols/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/davidrjenni/reftools" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/davidrjenni/reftools" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fillstruct/embedded110.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fillstruct/embedded110.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fillstruct/embedded111.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fillstruct/embedded111.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fillstruct/fill.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fillstruct/fill.go" afterDir="false" />
@@ -28,6 +32,7 @@
       <change beforePath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fillswitch/test-fixtures/typeswitch_5/input.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fillswitch/test-fixtures/typeswitch_5/input.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fillswitch/typestring.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fillswitch/typestring.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fixplurals/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/davidrjenni/reftools/cmd/fixplurals/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/go-delve/delve" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/go-delve/delve" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/go-delve/delve/cmd/dlv/cmds/commands.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/go-delve/delve/cmd/dlv/cmds/commands.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/go-delve/delve/cmd/dlv/dlv_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/go-delve/delve/cmd/dlv/dlv_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/go-delve/delve/cmd/dlv/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/go-delve/delve/cmd/dlv/main.go" afterDir="false" />
@@ -174,6 +179,7 @@
       <change beforePath="$PROJECT_DIR$/github.com/go-delve/delve/service/test/integration1_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/go-delve/delve/service/test/integration1_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/go-delve/delve/service/test/integration2_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/go-delve/delve/service/test/integration2_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/go-delve/delve/service/test/variables_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/go-delve/delve/service/test/variables_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/godoctor/godoctor" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/godoctor/godoctor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/godoctor/godoctor/analysis/cfg/cfg.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/godoctor/godoctor/analysis/cfg/cfg.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/godoctor/godoctor/analysis/cfg/cfg_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/godoctor/godoctor/analysis/cfg/cfg_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/godoctor/godoctor/analysis/cfg/example_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/godoctor/godoctor/analysis/cfg/example_test.go" afterDir="false" />
@@ -227,13 +233,16 @@
       <change beforePath="$PROJECT_DIR$/github.com/godoctor/godoctor/text/edit_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/godoctor/godoctor/text/edit_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/godoctor/godoctor/text/selection.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/godoctor/godoctor/text/selection.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/godoctor/godoctor/text/selection_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/godoctor/godoctor/text/selection_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/haya14busa/goplay" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/haya14busa/goplay" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/haya14busa/goplay/cmd/goplay/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/haya14busa/goplay/cmd/goplay/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/haya14busa/goplay/goplay.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/haya14busa/goplay/goplay.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/haya14busa/goplay/goplay_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/haya14busa/goplay/goplay_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/haya14busa/goplay/socket/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/haya14busa/goplay/socket/client.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/haya14busa/goplay/socket/client_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/haya14busa/goplay/socket/client_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/josharian/impl" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/josharian/impl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/josharian/impl/impl.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/josharian/impl/impl.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/josharian/impl/impl_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/josharian/impl/impl_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/karrick/godirwalk" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/karrick/godirwalk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/karrick/godirwalk/dirent.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/karrick/godirwalk/dirent.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/karrick/godirwalk/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/karrick/godirwalk/doc.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/karrick/godirwalk/ensure_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/karrick/godirwalk/ensure_test.go" afterDir="false" />
@@ -255,6 +264,7 @@
       <change beforePath="$PROJECT_DIR$/github.com/karrick/godirwalk/symdir.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/karrick/godirwalk/symdir.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/karrick/godirwalk/walk.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/karrick/godirwalk/walk.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/karrick/godirwalk/walk_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/karrick/godirwalk/walk_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/mdempsky/gocode" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/mdempsky/gocode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/mdempsky/gocode/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/mdempsky/gocode/client.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/mdempsky/gocode/gocode.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/mdempsky/gocode/gocode.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/mdempsky/gocode/internal/cache/context.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/mdempsky/gocode/internal/cache/context.go" afterDir="false" />
@@ -275,6 +285,7 @@
       <change beforePath="$PROJECT_DIR$/github.com/mdempsky/gocode/os_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/mdempsky/gocode/os_windows.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/mdempsky/gocode/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/mdempsky/gocode/server.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/mdempsky/gocode/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/mdempsky/gocode/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/nsf/gocode" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/nsf/gocode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/nsf/gocode/autocompletecontext.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/nsf/gocode/autocompletecontext.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/nsf/gocode/autocompletefile.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/nsf/gocode/autocompletefile.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/nsf/gocode/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/nsf/gocode/client.go" afterDir="false" />
@@ -298,6 +309,7 @@
       <change beforePath="$PROJECT_DIR$/github.com/nsf/gocode/type_alias_build_hack_18.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/nsf/gocode/type_alias_build_hack_18.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/nsf/gocode/type_alias_build_hack_19.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/nsf/gocode/type_alias_build_hack_19.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/nsf/gocode/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/nsf/gocode/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/pkg/errors" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/pkg/errors" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/pkg/errors/bench_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/pkg/errors/bench_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/pkg/errors/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/pkg/errors/errors.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/pkg/errors/errors_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/pkg/errors/errors_test.go" afterDir="false" />
@@ -306,7 +318,9 @@
       <change beforePath="$PROJECT_DIR$/github.com/pkg/errors/json_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/pkg/errors/json_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/pkg/errors/stack.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/pkg/errors/stack.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/pkg/errors/stack_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/pkg/errors/stack_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/ramya-rao-a/go-outline" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/ramya-rao-a/go-outline" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/ramya-rao-a/go-outline/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/ramya-rao-a/go-outline/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/rogpeppe/godef" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/rogpeppe/godef" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/rogpeppe/godef/acme.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/rogpeppe/godef/acme.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/rogpeppe/godef/adapt.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/rogpeppe/godef/adapt.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/rogpeppe/godef/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/rogpeppe/godef/doc.go" afterDir="false" />
@@ -339,16 +353,19 @@
       <change beforePath="$PROJECT_DIR$/github.com/rogpeppe/godef/godef.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/rogpeppe/godef/godef.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/rogpeppe/godef/godef_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/rogpeppe/godef/godef_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/rogpeppe/godef/packages.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/rogpeppe/godef/packages.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/skratchdot/open-golang" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/skratchdot/open-golang" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/skratchdot/open-golang/open/exec.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/skratchdot/open-golang/open/exec.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/skratchdot/open-golang/open/exec_darwin.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/skratchdot/open-golang/open/exec_darwin.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/skratchdot/open-golang/open/exec_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/skratchdot/open-golang/open/exec_windows.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/skratchdot/open-golang/open/open.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/skratchdot/open-golang/open/open.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/skratchdot/open-golang/open/open_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/skratchdot/open-golang/open/open_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/sqs/goreturns" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/sqs/goreturns" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/sqs/goreturns/goreturns.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/sqs/goreturns/goreturns.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/sqs/goreturns/returns/fix.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/sqs/goreturns/returns/fix.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/sqs/goreturns/returns/fix_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/sqs/goreturns/returns/fix_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/sqs/goreturns/returns/index.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/sqs/goreturns/returns/index.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/sqs/goreturns/returns/returns.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/sqs/goreturns/returns/returns.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/stamblerre/gocode" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/stamblerre/gocode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/stamblerre/gocode/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/stamblerre/gocode/client.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/stamblerre/gocode/gocode.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/stamblerre/gocode/gocode.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/stamblerre/gocode/gocode_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/stamblerre/gocode/gocode_test.go" afterDir="false" />
@@ -364,12 +381,14 @@
       <change beforePath="$PROJECT_DIR$/github.com/stamblerre/gocode/os_windows.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/stamblerre/gocode/os_windows.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/stamblerre/gocode/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/stamblerre/gocode/server.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/stamblerre/gocode/utils.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/stamblerre/gocode/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.com/uudashr/gopkgs" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/uudashr/gopkgs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/uudashr/gopkgs/cmd/gopkgs/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/uudashr/gopkgs/cmd/gopkgs/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/uudashr/gopkgs/doc.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/uudashr/gopkgs/doc.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/uudashr/gopkgs/gopkgs.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/uudashr/gopkgs/gopkgs.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/uudashr/gopkgs/gopkgs_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/uudashr/gopkgs/gopkgs_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/uudashr/gopkgs/vendor.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/uudashr/gopkgs/vendor.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.com/uudashr/gopkgs/vendor_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/github.com/uudashr/gopkgs/vendor_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go_dev/day4/example/example2/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/go_dev/day4/example/example2/main/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -386,7 +405,7 @@
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/github.com/ramya-rao-a/go-outline" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QwiKPwfQu76jZ76BJ9A2D9cbTF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -427,21 +446,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build go_dev/day4/example/example2/main">
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
     <configuration name="go build go_dev/day3/example1/main (1)" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="src" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/go_dev/day2/example4/main/main.go" />
       <package value="go_dev/day2/example4/main" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build go_dev/day3/example/example2/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="src" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/go_dev/day3/example/example2/main/main.go" />
-      <package value="go_dev/day3/example/example2/main" />
       <method v="2" />
     </configuration>
     <configuration name="go build go_dev/day3/example/example3/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -470,6 +481,14 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/go_dev/day4/example/example2/main/main.go" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="src" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -480,19 +499,19 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.go build go_dev/day3/example1/main (1)" />
-      <item itemvalue="Go Build.go build go_dev/day3/example/example2/main" />
       <item itemvalue="Go Build.go build go_dev/day3/example/example3/main" />
       <item itemvalue="Go Build.go build go_dev/day4/example/example1/main" />
       <item itemvalue="Go Build.go build main.go" />
       <item itemvalue="Go Build.go build go_dev/day4/example/example2/main" />
+      <item itemvalue="Go Build.go build main.go (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build go_dev/day4/example/example2/main" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build go_dev/day4/example/example1/main" />
         <item itemvalue="Go Build.go build go_dev/day3/example/example3/main" />
-        <item itemvalue="Go Build.go build go_dev/day3/example/example2/main" />
       </list>
     </recent_temporary>
   </component>
